@@ -1,0 +1,1 @@
+ I will work on React with regularity and discipline, with my advisor's help, following the 70/20/10 rule: 70% building projects, 20% reading the documentation, and 10% writing notes. Discipline and consistency, while fixing my weak points.
