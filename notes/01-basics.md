@@ -113,3 +113,31 @@ no /few boundaries
   Maintenance courerns
   lncompatibility with existing codebase
   //leson react.createElement()
+
+  // Why React?
+
+It’s Composable!
+Can create easily reusable and interchangeable “pieces of the web” that can be combined in various ways to create complex systems
+Why React? It’s Declarative?
+ Declarative : what should be done  "?"
+ just tell me what needs to happen and  l ll worry 
+ about how to do it
+ // imperative  how  should be done"?"
+ Describe ùe every step one how to do something and l ll do it"
+
+
+ /*
+Challenge - recreate the above line of code in vanilla JS by creating and
+appending an h1 to our div#root (without using innerHTML).
+
+- Create a new h1 element (createElement)
+- Give it some textContent
+- Give it a class name of "header"
+- append it as a child (using `appendChild`) of the div#root
+
+Don't use innerHTML to accomplish any of this.
+*/
+
+Imperative: I command each step (create, set text, append) in plain JS.
+Declarative: I describe what the UI should look like, and React handles the steps.
+Imperative: 4 steps to make one h1. Declarative: 1 line.
